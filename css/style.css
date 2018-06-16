@@ -1,0 +1,116 @@
+* {
+/*	border: 1px solid black;*/
+	margin: 0;
+	padding: 0;
+}
+body {
+	text-align: center;
+	font-family: calibri;
+}
+h1 {
+	margin: 30px 0 30px 0;
+}
+li {
+	list-style-type: none;
+	text-align: justify;
+}
+.resume_content {
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.personal,
+.additionally,
+.my_target,
+.my_competence,
+.my_education,
+.my_additional_education,
+.my_experience {
+	margin-bottom: 25px;
+}
+
+.personal-information,
+.additionally-information,
+.target,
+.my_competence-general,
+.higher_education,
+.additional_education,
+.experience { /*block-1*/
+	font-size: 16pt;
+}
+
+.personal-mobile,
+.personal-email,
+.personal-location,	
+.my_target-target,
+.competence,
+.education,
+.year_of_ending,
+.specialization,
+.work_period,
+.my_position,
+.my_company,
+.my_duties,
+.my_achievements,
+.level_languages,
+.my_hobby
+ { /*block-2*/
+	font-size: 14pt;
+}
+
+.mobile,
+.languages,
+.email,
+.hobby,
+.location,
+.target,
+.empty,
+.shool,
+.year,
+.specialization_name,
+.period,
+.position,
+.company,
+.duties,
+.achievements { /*span-1*/
+	display: inline-block;
+	width: 20%;
+}
+.competence-list,
+.duties_list,
+.achievements_list
+ { /*span-2*/
+	display: inline-block;
+}
+
+.duties_list,
+.achievements_list
+ { /*span-3*/
+	width: 745px;
+}
+.personal-information,
+.additionally-information,
+.personal-mobile,
+.personal-email,
+.personal-location,
+.my_target-target,
+.target,
+.my_competence-general,
+.competence,
+.higher_education,
+.education,
+.year_of_ending,
+.specialization,
+.additional_education,
+.experience,
+.work_period,
+.my_position,
+.my_company,
+.my_duties,
+.my_achievements,
+.level_languages,
+.my_hobby {
+	text-align: left;
+}
+
+
